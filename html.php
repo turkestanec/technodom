@@ -6,7 +6,9 @@ $products = [
     "image" => "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/28640/jjqO7gO0gKMP3tHOP6V81A.jpeg"
   ],
   [
-    "name" => "Samsung Galaxy S24 Ultra",
+fgk
+// dfkgl
+// locale_get_defaultdlfg    "name" => "Samsung Galaxy S24 Ultra",
     "price" => "629 990 ₸",
     "image" => "https://i.ytimg.com/vi/QgrtD2yGw1Y/maxresdefault.jpg"
   ],
@@ -21,6 +23,7 @@ $products = [
     "image" => "https://i.ytimg.com/vi/umR4d7XIH18/maxresdefault.jpg"
   ]
 ];
+// dhg;d
 ?>
 
 <!DOCTYPE html>
