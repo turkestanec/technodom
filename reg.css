@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.log{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 60px 20px;
+    background-color: #fff;
+}
+
+.logg{
+    background-color: #fff0f6;
+    border-radius: 16px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(182, 255, 194, 0.281);
+}
+
+.logg form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+.logg form h3{
+    color: #ec6ec2;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.logg form input{
+    padding: 5px 10px ;
+    width: 350px;
+    border-radius: 16px;
+    border: solid 2px #ec6ec2;
+}
+
+.logg form button {
+    padding: 5px 10px ;
+    border-radius: 16px ;
+    background-color: #ec6ec2;
+    font-size: 18px ;
+    border-radius: none;
+    color: #fff;
+}
+
