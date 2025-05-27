@@ -1,5 +1,34 @@
 <?php
+<<<<<<< HEAD
 session_start();
+=======
+$products = [
+  [
+    "name" => "iPhone 15 Pro Max",
+    "price" => "700 000 ₸",
+    "image" => "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/28640/jjqO7gO0gKMP3tHOP6V81A.jpeg"
+  ],
+  [
+fgk
+// dfkgl
+// locale_get_defaultdlfg    "name" => "Samsung Galaxy S24 Ultra",
+    "price" => "629 990 ₸",
+    "image" => "https://i.ytimg.com/vi/QgrtD2yGw1Y/maxresdefault.jpg"
+  ],
+  [
+    "name" => "MacBook Air M2",
+    "price" => "800 000 ₸",
+    "image" => "https://frankfurt.apollo.olxcdn.com/v1/files/tdbd3hpdasq5-KZ/image;s=1600x894"
+  ],
+  [
+    "name" => "PlayStation 5",
+    "price" => "499 990 ₸",
+    "image" => "https://i.ytimg.com/vi/umR4d7XIH18/maxresdefault.jpg"
+  ]
+];
+// dhg;d
+?>
+>>>>>>> 15f8e85e1e6a0f83fed6708555a7c68083a096c4
 
 // Себет сессиясы
 if (!isset($_SESSION["cart"])) {
