@@ -12,7 +12,7 @@
    
     <section class="log">
         <div class="logg">
-            <form action="signup.php" method="POST">
+            <form action="api/signup.php" method="POST">
                 <h3>Тіркелу</h3>
                 <input name="email" type="email" placeholder="Почтаңызды енгізіңіз">
                 <input name="username" type="text" placeholder="Аты-жөніңізді енгізіңіз">
